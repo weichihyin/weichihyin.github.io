@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.most.tw/zh/categories/</loc>
+    <loc>https://weichihyin.github.io/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.most.tw/en/categories/"
+                href="https://weichihyin.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.most.tw/zh/categories/"
+                href="https://weichihyin.github.io/zh/categories/"
                 />
   </url><url>
-    <loc>https://blog.most.tw/zh/tags/</loc>
+    <loc>https://weichihyin.github.io/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.most.tw/en/tags/"
+                href="https://weichihyin.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.most.tw/zh/tags/"
+                href="https://weichihyin.github.io/zh/tags/"
                 />
   </url><url>
-    <loc>https://blog.most.tw/zh/</loc>
+    <loc>https://weichihyin.github.io/zh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.most.tw/en/"
+                href="https://weichihyin.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://blog.most.tw/zh/"
+                href="https://weichihyin.github.io/zh/"
                 />
   </url>
 </urlset>

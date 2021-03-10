@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dennis&#39; RealWord IT Solutions</title>
-    <link>https://blog.most.tw/en/</link>
+    <link>https://weichihyin.github.io/en/</link>
     <description>Recent content on Dennis&#39; RealWord IT Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Ming Yue Co., Ltd.</copyright><atom:link href="https://blog.most.tw/en/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Ming Yue Co., Ltd.</copyright><atom:link href="https://weichihyin.github.io/en/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

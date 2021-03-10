@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 阿智技術隨筆</title>
-    <link>https://blog.most.tw/zh/categories/</link>
+    <link>https://weichihyin.github.io/zh/categories/</link>
     <description>Recent content in Categories on 阿智技術隨筆</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <copyright>Ming Yue Co., Ltd.</copyright><atom:link href="https://blog.most.tw/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Ming Yue Co., Ltd.</copyright><atom:link href="https://weichihyin.github.io/zh/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
